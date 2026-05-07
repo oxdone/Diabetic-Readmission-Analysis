@@ -1,5 +1,5 @@
 # Diabetic-Readmission-Analysis
-I analyzed hospital readmission rates among diabetic patients using Python and Jupyter Notebook. Through data cleaning, ETL, and visualization, I identified patterns and key factors linked to readmission risk, turning healthcare data into actionable insights that support better decision-making.
+I analyzed hospital readmission rates among diabetic patients using Python and Jupyter Notebook. Through data cleaning, EDA, and visualization, I identified patterns and key factors linked to readmission risk, turning healthcare data into actionable insights that support better decision-making.
 # Hospital Readmission Analysis for Diabetic Patients
 This project analyzes hospital readmission rates among diabetic patients using Jupyter Notebook.
 ## Objective
